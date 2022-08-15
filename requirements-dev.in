@@ -1,0 +1,11 @@
+-c requirements.txt
+pathlib_mate
+isort
+pdbpp
+black
+lazy-object-proxy
+autopep8
+MonkeyType
+pylint
+autoflake
+bpython

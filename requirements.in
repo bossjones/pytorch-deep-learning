@@ -1,0 +1,13 @@
+torch
+torchvision
+jupyterlab
+torchinfo
+torchmetrics
+pandas
+matplotlib
+scikit-learn
+loguru
+pip-tools
+rich[jupyter]
+logging_tree
+better_exceptions
